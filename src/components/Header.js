@@ -10,7 +10,7 @@ const Header = () => (
         <img src={avatar} alt="" />
       </a>
       <h1>
-        <strong>I am Strata</strong>, a super simple
+        <strong>I am Strata</strong>Detail
         <br />
         responsive site template freebi
         <br />
