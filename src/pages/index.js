@@ -42,7 +42,7 @@ const HomeIndex = () => {
         </section>
 
         <section id="two">
-          <h2>Recent Work</h2>
+          <h2>RECENT POST</h2>
 
           <Gallery />
 
